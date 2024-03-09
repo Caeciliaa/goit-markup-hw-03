@@ -279,7 +279,7 @@ address {
   text-transform: capitalize;
   text-align: center;
   color: #2e2f42;
-  margin-bottom: 8px;
+  margin-bottom: 72px;
 }
 
 .portfolio-list {
@@ -318,6 +318,7 @@ address {
   letter-spacing: 0.02em;
   color: #434455;
 }
+
 /* ===========FOOTER=========== */
 
 .footer {
@@ -345,6 +346,5 @@ address {
   letter-spacing: 0.02em;
   color: #f4f4fd;
   max-width: 264px;
-  display: inline-block;
   margin-bottom: 16px;
 }
