@@ -234,7 +234,6 @@ address {
 .team-list {
   display: flex;
   gap: 24px;
-  flex-direction: flex;
 }
 
 .team-item {
